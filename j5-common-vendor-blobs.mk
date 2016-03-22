@@ -33,6 +33,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/samsung/j5-common/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/hw/nfc_nci.msm8916.so:system/lib/hw/nfc_nci.msm8916.so \
+    vendor/samsung/j5-common/proprietary/etc/firmware/nfc_test.bin:system/etc/firmware/nfc_test.bin \
     vendor/samsung/j5-common/proprietary/vendor/firmware/libpn548ad_fw.so:system/vendor/firmware/libpn548ad_fw.so \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.b00:system/vendor/firmware/keymaster/keymaster.b00 \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.b01:system/vendor/firmware/keymaster/keymaster.b01 \
