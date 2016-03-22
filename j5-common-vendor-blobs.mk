@@ -213,7 +213,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
-    vendor/samsung/j5-common/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/j5-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/samsung/j5-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/j5-common/proprietary/bin/qmiproxy:system/bin/qmiproxy \
@@ -225,14 +224,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
-    vendor/samsung/j5-common/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/j5-common/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/j5-common/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/j5-common/proprietary/lib/libcordon.so:system/lib/libcordon.so \
     vendor/samsung/j5-common/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
-    vendor/samsung/j5-common/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/j5-common/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
     vendor/samsung/j5-common/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/j5-common/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
@@ -268,7 +262,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/lib_DNSe_NRSS_ver230.so:system/lib/lib_DNSe_NRSS_ver230.so \
     vendor/samsung/j5-common/proprietary/lib/libsamsungpowersound.so:system/lib/libsamsungpowersound.so \
     vendor/samsung/j5-common/proprietary/lib/libmysound.so:system/lib/libmysound.so \
-    vendor/samsung/j5-common/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
     vendor/samsung/j5-common/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
     vendor/samsung/j5-common/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/samsung/j5-common/proprietary/lib/soundfx/libaudiosa_sec.so:system/lib/soundfx/libaudiosa_sec.so \
