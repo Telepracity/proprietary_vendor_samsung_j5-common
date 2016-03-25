@@ -231,6 +231,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/samsung/j5-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/samsung/j5-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libcommon_time_client.so:system/vendor/lib/libcommon_time_client.so \
     vendor/samsung/j5-common/proprietary/bin/ssr_diag:system/bin/ssr_diag \
     vendor/samsung/j5-common/proprietary/bin/ssr_setup:system/bin/ssr_setup \
     vendor/samsung/j5-common/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
