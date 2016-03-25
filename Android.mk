@@ -59,15 +59,5 @@ LOCAL_MODULE_SUFFIX := .so
 LOCAL_MODULE_CLASS := SHARED_LIBRARIES
 include $(BUILD_PREBUILT)
 
-include $(CLEAR_VARS)
-LOCAL_MODULE := libcommon_time_client
-LOCAL_MODULE_OWNER := samsung
-LOCAL_SRC_FILES := proprietary/vendor/lib/libcommon_time_client.so
-LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR_SHARED_LIBRARIES)
-LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE_SUFFIX := .so
-LOCAL_MODULE_CLASS := SHARED_LIBRARIES
-include $(BUILD_PREBUILT)
-
 endif
 endif
