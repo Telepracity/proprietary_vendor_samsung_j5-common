@@ -18,7 +18,11 @@
 DEVICE_PACKAGE_OVERLAYS += vendor/samsung/j5-common/overlay
 
 PRODUCT_PACKAGES += \
-    libtime_genoff
+    com.qualcomm.location
+
+PRODUCT_PACKAGES += \
+    libtime_genoff \
+    TimeService
 
 PRODUCT_PACKAGES += \
     libmm-abl
