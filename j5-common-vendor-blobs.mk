@@ -127,6 +127,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/etc/T13QL_s5k3l2xx_module_info.xml:system/etc/T13QL_s5k3l2xx_module_info.xml \
     vendor/samsung/j5-common/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/j5-common/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
+    vendor/samsung/j5-common/proprietary/cameradata/secvision/soundshot/sound_shot_icon.png:system/cameradata/secvision/soundshot/sound_shot_icon.png \
     vendor/samsung/j5-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/j5-common/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
