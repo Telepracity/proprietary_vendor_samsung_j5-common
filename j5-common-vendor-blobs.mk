@@ -60,7 +60,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libnative_audio_latency_jni.so:system/vendor/lib/libnative_audio_latency_jni.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libqct_resampler.so:system/vendor/lib/libqct_resampler.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/librcsimssjni.so:system/vendor/lib/librcsimssjni.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/lib-rcsimssjni.so:system/vendor/lib/lib-rcsimssjni.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/lib-rcsjni.so:system/vendor/lib/lib-rcsjni.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libscve.so:system/vendor/lib/libscve.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libscve_mv.so:system/vendor/lib/libscve_mv.so \
