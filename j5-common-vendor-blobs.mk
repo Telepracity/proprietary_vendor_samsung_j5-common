@@ -16,7 +16,57 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/adsprpcd:system/bin/adsprpcd \
+    vendor/samsung/j5-common/proprietary/bin/ATWFD-daemon:system/bin/ATWFD-daemon \
+    vendor/samsung/j5-common/proprietary/bin/usbhub:system/bin/usbhub \
+    vendor/samsung/j5-common/proprietary/bin/usbhub_init:system/bin/usbhub_init \
+    vendor/samsung/j5-common/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
+    vendor/samsung/j5-common/proprietary/bin/imscmservice:system/bin/imscmservice \
+    vendor/samsung/j5-common/proprietary/bin/imsdatadeamon:system/bin/imsdatadeamon \
+    vendor/samsung/j5-common/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
+    vendor/samsung/j5-common/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
+    vendor/samsung/j5-common/proprietary/bin/mm-qjpeg-dec-test:system/bin/mm-qjpeg-dec-test \
+    vendor/samsung/j5-common/proprietary/bin/mm-qjpeg-enc-test:system/bin/mm-qjpeg-enc-test \
+    vendor/samsung/j5-common/proprietary/bin/mm-qomx-idec-test:system/bin/mm-qomx-idec-test \
+    vendor/samsung/j5-common/proprietary/bin/mm-qomx-ienc-test:system/bin/mm-qomx-ienc-test \
+    vendor/samsung/j5-common/proprietary/bin/mm-vidc-omx-test:system/bin/mm-vidc-omx-test \
+    vendor/samsung/j5-common/proprietary/bin/msm-vidc-test:system/bin/msm-vidc-test \
+    vendor/samsung/j5-common/proprietary/bin/fmconfig:system/bin/fmconfig \
+    vendor/samsung/j5-common/proprietary/bin/samsungpowersoundplay:system/bin/samsungpowersoundplay \
+    vendor/samsung/j5-common/proprietary/bin/msm_irqbalance:system/bin/ms_irqbalance \
     vendor/samsung/j5-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libCommandSvc.so:system/vendor/lib/libCommandSvc.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/lib-dplmedia.so:system/vendor/lib/lib-dplmedia.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libFileMux.so:system/vendor/lib/libFileMux.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libfrsdk.so:system/vendor/lib/libfrsdk.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libhwdaphal.so:system/vendor/lib/libhwdaphal.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsdpl.so:system/vendor/lib/lib-imsdpl.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsqimf.so:system/vendor/lib/lib-imsqimf.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsrcs.so:system/vendor/lib/lib-imsrcs.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsrcscmservice.so:system/vendor/lib/lib-imsrcscmservice.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imss.so:system/vendor/lib/lib-imss.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsSDP.so:system/vendor/lib/lib-imsSDP.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsvt.so:system/vendor/lib/lib-imsvt.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsxml.so:system/vendor/lib/lib-imsxml.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/liblistenjni.so:system/vendor/lib/liblistenjni.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/liblistensoundmodel2.so:system/vendor/lib/liblistensoundmodel2.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmdsprpc.so:system/vendor/lib/libmdsprpc.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmm-disp-apis.so:system/vendor/lib/libmm-disp-apis.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmm-hdcpmgr.so:system/vendor/lib/libmm-hdcpmgr.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmmhttpstack.so:system/vendor/lib/libmmhttpstack.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmm-qdcm.so:system/vendor/lib/libmm-qdcm.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmmQSM.so:system/vendor/lib/libmmQSM.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmmrtpdecoder.so:system/vendor/lib/libmmrtpdecoder.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libnative_audio_latency_jni.so:system/vendor/lib/libnative_audio_latency_jni.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libqct_resampler.so:system/vendor/lib/libqct_resampler.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/librcsimssjni.so:system/vendor/lib/librcsimssjni.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/lib-rcsjni.so:system/vendor/lib/lib-rcsjni.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libscve.so:system/vendor/lib/libscve.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libscve_mv.so:system/vendor/lib/libscve_mv.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libvcel.so:system/vendor/lib/libvcel.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libvoice-svc.so:system/vendor/lib/libvoice-svc.so \
+    vendor/samsung/j5-common/proprietary/vendor/etc/msm_irqbalance.conf:system/vendor/etc/msm_irqbalance.conf \
     vendor/samsung/j5-common/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libacdb-fts.so:system/vendor/lib/libacdb-fts.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
@@ -92,6 +142,43 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsomxmp3d.so:system/lib/libsomxmp3d.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxmp4vdsw.so:system/lib/libsomxmp4vdsw.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxnaace.so:system/lib/libsomxnaace.so \
+    vendor/samsung/j5-common/proprietary/lib/libims_engine.so:system/lib/libims_engine.so \
+    vendor/samsung/j5-common/proprietary/lib/libphotoeditorEngine.so:system/lib/libphotoeditorEngine.so \
+    vendor/samsung/j5-common/proprietary/lib/libQjpeg.so:system/lib/libQjpeg.so \
+    vendor/samsung/j5-common/proprietary/lib/libqjpegforphotoeditor.so:system/lib/libqjpegforphotoeditor.so \
+    vendor/samsung/j5-common/proprietary/lib/libQmageDecoder.so:system/lib/libQmageDecoder.so \
+    vendor/samsung/j5-common/proprietary/lib/libquramagifencoder_L.so:system/lib/libquramagifencoder_L.so \
+    vendor/samsung/j5-common/proprietary/lib/libquramimagecodec.so:system/lib/libquramimagecodec.so \
+    vendor/samsung/j5-common/proprietary/lib/libquramresize.so:system/lib/libquramresize.so \
+    vendor/samsung/j5-common/proprietary/lib/libsAMRNB.so:system/lib/libsAMRNB.so \
+    vendor/samsung/j5-common/proprietary/lib/libsAMRWB.so:system/lib/libsAMRWB.so \
+    vendor/samsung/j5-common/proprietary/lib/libsavsac.so:system/lib/libsavsac.so \
+    vendor/samsung/j5-common/proprietary/lib/libsavscmn.so:system/lib/libsavscmn.so \
+    vendor/samsung/j5-common/proprietary/lib/libsavsff.so:system/lib/libsavsff.so \
+    vendor/samsung/j5-common/proprietary/lib/libsavsmeta.so:system/lib/libsavsmeta.so \
+    vendor/samsung/j5-common/proprietary/lib/libsavsvc.so:system/lib/libsavsvc.so \
+    vendor/samsung/j5-common/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
+    vendor/samsung/j5-common/proprietary/lib/libseccamera_jni.so:system/lib/libseccamera_jni.so \
+    vendor/samsung/j5-common/proprietary/lib/libsec_devenc.so:system/lib/libsec_devenc.so \
+    vendor/samsung/j5-common/proprietary/lib/libsecface.so:system/lib/libsecface.so \
+    vendor/samsung/j5-common/proprietary/lib/libsecfips.so:system/lib/libsecfips.so \
+    vendor/samsung/j5-common/proprietary/lib/libsecimaging.so:system/lib/libsecimaging.so \
+    vendor/samsung/j5-common/proprietary/lib/libsecjpeginterface.so:system/lib/libsecjpeginterface.so \
+    vendor/samsung/j5-common/proprietary/lib/libsecjpegquram.so:system/lib/libsecjpegquram.so \
+    vendor/samsung/j5-common/proprietary/lib/libsecmediarecorder_jni.so:system/lib/libsecmediarecorder_jni.so \
+    vendor/samsung/j5-common/proprietary/lib/libSecMMCodec.so:system/lib/libSecMMCodec.so \
+    vendor/samsung/j5-common/proprietary/lib/libsecpkcs11_engine.so:system/lib/libsecpkcs11_engine.so \
+    vendor/samsung/j5-common/proprietary/lib/libsfextaac.so:system/lib/libsfextaac.so \
+    vendor/samsung/j5-common/proprietary/lib/libsfextcmn.so:system/lib/libsfextcmn.so \
+    vendor/samsung/j5-common/proprietary/lib/libsfextcp.so:system/lib/libsfextcp.so \
+    vendor/samsung/j5-common/proprietary/lib/libsfextflac.so:system/lib/libsfextflac.so \
+    vendor/samsung/j5-common/proprietary/lib/libsfextmkv.so:system/lib/libsfextmkv.so \
+    vendor/samsung/j5-common/proprietary/lib/libsfextmp4f.so:system/lib/libsfextmp4f.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxaacd.so:system/lib/libsomxacd.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxaace.so:system/lib/libsomxaace.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxadpcmd.so:system/lib/libsomxadpcmd.so \
+    vendor/samsung/j5-common/proprietary/lib/libsyncmldm.so:system/lib/libsyncmldm.so \
+    vendor/samsung/j5-common/proprietary/lib/libTsAf.so:system/lib/libTsAf.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxvp8d.so:system/lib/libsomxvp8d.so \
     vendor/samsung/j5-common/proprietary/lib/libsoundalive.so:system/lib/libsoundalive.so \
     vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_3DPosition_ver107.so:system/lib/lib_SoundAlive_3DPosition_ver107.so \
