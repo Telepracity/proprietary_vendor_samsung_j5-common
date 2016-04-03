@@ -21,7 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/samsung/j5-common/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
     vendor/samsung/j5-common/proprietary/bin/imscmservice:system/bin/imscmservice \
-    vendor/samsung/j5-common/proprietary/bin/imsdatadeamon:system/bin/imsdatadeamon \
+    vendor/samsung/j5-common/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
     vendor/samsung/j5-common/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
     vendor/samsung/j5-common/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/samsung/j5-common/proprietary/bin/mm-qjpeg-dec-test:system/bin/mm-qjpeg-dec-test \
