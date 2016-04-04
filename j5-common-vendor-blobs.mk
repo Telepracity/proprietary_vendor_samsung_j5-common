@@ -16,7 +16,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/adsprpcd:system/bin/adsprpcd \
-    vendor/samsung/j5-common/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/samsung/j5-common/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/samsung/j5-common/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/samsung/j5-common/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
