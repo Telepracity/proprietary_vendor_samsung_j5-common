@@ -116,7 +116,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
     vendor/samsung/j5-common/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
     vendor/samsung/j5-common/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
-    vendor/samsung/j5-common/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxcelp13Enc.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
     vendor/samsung/j5-common/proprietary/lib/libpalmMobileDetectorFull.so:system/lib/libpalmMobileDetectorFull.so \
     vendor/samsung/j5-common/proprietary/lib/lib_PreGainBooster_ver104.so:system/lib/lib_PreGainBooster_ver104.so \
     vendor/samsung/j5-common/proprietary/lib/libsamsungeffect.so:system/lib/libsamsungeffect.so \
@@ -173,7 +173,16 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsfextflac.so:system/lib/libsfextflac.so \
     vendor/samsung/j5-common/proprietary/lib/libsfextmkv.so:system/lib/libsfextmkv.so \
     vendor/samsung/j5-common/proprietary/lib/libsfextmp4f.so:system/lib/libsfextmp4f.so \
-    vendor/samsung/j5-common/proprietary/lib/libsomxaacd.so:system/lib/libsomxacd.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxaacd.so:system/lib/libsomxaacd.so \
+    vendor/samsung/j5-common/proprietary/lib/libmtp_samsung.so:system/lib/libmtp_samsung.so \
+    vendor/samsung/j5-common/proprietary/lib/libmtp_samsung_jni.so:system/lib/libmtp_samsung_jni.so \
+    vendor/samsung/j5-common/proprietary/lib/libsamsungearcare.so:system/lib/libsamsungearcare.so \
+    vendor/samsung/j5-common/proprietary/lib/libtzyfingr.so:system/lib/libtzyfingr.so \
+    vendor/samsung/j5-common/proprietary/lib/libvtmanager.so:system/lib/libvtmanager.so \
+    vendor/samsung/j5-common/proprietary/lib/libvtstack.so:system/lib/libvtstack.so \
+    vendor/samsung/j5-common/proprietary/lib/libandroid_ssrm.so:system/lib/libandroid_ssrm.so \
+    vendor/samsung/j5-common/proprietary/lib/libexfat_utils.so:system/lib/libexfat_utils.so \
+    vendor/samsung/j5-common/proprietary/lib/libminui.so:system/lib/libminui.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxaace.so:system/lib/libsomxaace.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxadpcmd.so:system/lib/libsomxadpcmd.so \
     vendor/samsung/j5-common/proprietary/lib/libsyncmldm.so:system/lib/libsyncmldm.so \
