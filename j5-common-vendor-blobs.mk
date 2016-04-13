@@ -105,6 +105,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libbt-iopdb.so:system/lib/libbt-iopdb.so \
     vendor/samsung/j5-common/proprietary/lib/libbt-iopdb_mod.so:system/lib/libbt-iopdb_mod.so \
     vendor/samsung/j5-common/proprietary/lib/libanalytics.so:system/lib/libanalytics.so \
+    vendor/samsung/j5-common/proprietary/lib/libRSDriver.so:system/lib/libRSDriver.so \
     vendor/samsung/j5-common/proprietary/lib/libasf_fileshare.so:system/lib/libasf_fileshare.so \
     vendor/samsung/j5-common/proprietary/lib/libasf_fileshareserver.so:system/lib/libasf_fileshareserver.so \
     vendor/samsung/j5-common/proprietary/lib/libbson.so:system/lib/libbson.so \
