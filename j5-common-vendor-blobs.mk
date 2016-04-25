@@ -17,6 +17,9 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/samsung/j5-common/proprietary/bin/usbhub:system/bin/usbhub \
+    vendor/samsung/j5-common/proprietary/bin/connfwexe:system/bin/connfwexe \
+    vendor/samsung/j5-common/proprietary/bin/ddexe:system/bin/ddexe \
+    vendor/samsung/j5-common/proprietary/bin/smdexe:system/bin/smdexe \
     vendor/samsung/j5-common/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/samsung/j5-common/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
     vendor/samsung/j5-common/proprietary/bin/imscmservice:system/bin/imscmservice \
@@ -140,10 +143,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libmaet.so:system/lib/libmaet.so \
     vendor/samsung/j5-common/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
     vendor/samsung/j5-common/proprietary/lib/libnvaccessor_fb.so:system/lib/libnvaccessor_fb.so \
-    vendor/samsung/j5-common/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
-    vendor/samsung/j5-common/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
-    vendor/samsung/j5-common/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
-    vendor/samsung/j5-common/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
     vendor/samsung/j5-common/proprietary/lib/libpalmMobileDetectorFull.so:system/lib/libpalmMobileDetectorFull.so \
     vendor/samsung/j5-common/proprietary/lib/lib_PreGainBooster_ver104.so:system/lib/lib_PreGainBooster_ver104.so \
     vendor/samsung/j5-common/proprietary/lib/libsamsungeffect.so:system/lib/libsamsungeffect.so \
@@ -379,7 +378,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/etc/firmware/a420_pm4.fw:system/etc/firmware/a420_pm4.fw \
     vendor/samsung/j5-common/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/samsung/j5-common/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
-    vendor/samsung/j5-common/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libDivxDrm.so:system/vendor/lib/libDivxDrm.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libExtendedExtractor.so:system/vendor/lib/libExtendedExtractor.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
