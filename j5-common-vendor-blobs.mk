@@ -126,10 +126,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsdp_sdk.so:system/lib/libsdp_sdk.so \
     vendor/samsung/j5-common/proprietary/lib/libsec_ecryptfs.so:system/lib/libsec_ecryptfs.so \
     vendor/samsung/j5-common/proprietary/lib/libseckeyprov.so:system/lib/libseckeyprov.so \
-    vendor/samsung/j5-common/proprietary/lib/libsec_km.so:system/lib/libsec_km.so \
-    vendor/samsung/j5-common/proprietary/lib/libsec_ode_km.so:system/lib/libsec_ode_km.so \
-    vendor/samsung/j5-common/proprietary/lib/libsecure_storage.so:system/lib/libsecure_storage.so \
-    vendor/samsung/j5-common/proprietary/lib/libsecure_storage_jni.so:system/lib/libsecure_storage_jni.so \
     vendor/samsung/j5-common/proprietary/lib/libsetproperty.so:system/lib/libsetproperty.so \
     vendor/samsung/j5-common/proprietary/lib/libspdkeygen.so:system/lib/libspdkeygen.so \
     vendor/samsung/j5-common/proprietary/lib/libcommonpawrapper.so:system/lib/libcommonpawrapper.so \
@@ -140,7 +136,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libepm.so:system/lib/libepm.so \
     vendor/samsung/j5-common/proprietary/lib/libface.so:system/lib/libface.so \
     vendor/samsung/j5-common/proprietary/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
-    vendor/samsung/j5-common/proprietary/lib/libfmradio_jni.so:system/lib/libfmradio_jni.so \
     vendor/samsung/j5-common/proprietary/lib/libgdmcprov.so:system/lib/libgdmcprov.so \
     vendor/samsung/j5-common/proprietary/lib/libmaet.so:system/lib/libmaet.so \
     vendor/samsung/j5-common/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
@@ -206,8 +201,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsfextmkv.so:system/lib/libsfextmkv.so \
     vendor/samsung/j5-common/proprietary/lib/libsfextmp4f.so:system/lib/libsfextmp4f.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxaacd.so:system/lib/libsomxaacd.so \
-    vendor/samsung/j5-common/proprietary/lib/libmtp_samsung.so:system/lib/libmtp_samsung.so \
-    vendor/samsung/j5-common/proprietary/lib/libmtp_samsung_jni.so:system/lib/libmtp_samsung_jni.so \
     vendor/samsung/j5-common/proprietary/lib/libsamsungearcare.so:system/lib/libsamsungearcare.so \
     vendor/samsung/j5-common/proprietary/lib/libtzyfingr.so:system/lib/libtzyfingr.so \
     vendor/samsung/j5-common/proprietary/lib/libvtmanager.so:system/lib/libvtmanager.so \
@@ -220,8 +213,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsyncmldm.so:system/lib/libsyncmldm.so \
     vendor/samsung/j5-common/proprietary/lib/libTsAf.so:system/lib/libTsAf.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxvp8d.so:system/lib/libsomxvp8d.so \
-    vendor/samsung/j5-common/proprietary/lib/libsoundalive.so:system/lib/libsoundalive.so \
-    vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_3DPosition_ver107.so:system/lib/lib_SoundAlive_3DPosition_ver107.so \
     vendor/samsung/j5-common/proprietary/lib/lib_SoundBooster_ver608.so:system/lib/lib_SoundBooster_ver608.so \
     vendor/samsung/j5-common/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
     vendor/samsung/j5-common/proprietary/lib/libsthmb.so:system/lib/libsthmb.so \
@@ -460,10 +451,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/lib_SamsungRec_V04013.so:system/lib/lib_SamsungRec_V04013.so \
     vendor/samsung/j5-common/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
     vendor/samsung/j5-common/proprietary/lib/libsamsungVoipResampler.so:system/lib/libsamsungVoipResampler.so \
-    vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_play_plus_ver126a.so:system/lib/lib_SoundAlive_play_plus_ver126a.so \
-    vendor/samsung/j5-common/proprietary/lib/lib_soundaliveresampler.so:system/lib/lib_soundaliveresampler.so \
-    vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_SRC192_ver205.so:system/lib/lib_SoundAlive_SRC192_ver205.so \
-    vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_ver118t.so:system/lib/lib_SoundAlive_ver118t.so \
     vendor/samsung/j5-common/proprietary/lib/lib_DNSe_EP_ver216b.so:system/lib/lib_DNSe_EP_ver216b.so \
     vendor/samsung/j5-common/proprietary/lib/lib_DNSe_NRSS_ver230.so:system/lib/lib_DNSe_NRSS_ver230.so \
     vendor/samsung/j5-common/proprietary/lib/libsamsungpowersound.so:system/lib/libsamsungpowersound.so \
