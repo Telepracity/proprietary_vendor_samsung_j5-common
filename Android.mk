@@ -17,7 +17,7 @@
 LOCAL_PATH := $(call my-dir)
 
 ifeq ($(BOARD_VENDOR),samsung)
-ifneq ($(filter j5nltexx j5ltexx j53g, $(TARGET_DEVICE)),)
+ifneq ($(filter j5nltexx j5ltexx j500h, $(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libtime_genoff
