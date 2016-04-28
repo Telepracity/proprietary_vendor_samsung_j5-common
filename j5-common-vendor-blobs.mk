@@ -222,6 +222,15 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libterrier.so:system/lib/libterrier.so \
     vendor/samsung/j5-common/proprietary/lib/libwcnftms.so:system/lib/libwcnftms.so \
     vendor/samsung/j5-common/proprietary/lib/libXt9core.so:system/lib/libXt9core.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
+    vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_play_plus_ver126a.so:system/lib/lib_SoundAlive_play_plus_ver126a.so \
+    vendor/samsung/j5-common/proprietary/lib/lib_soundaliveresampler.so:system/lib/lib_soundaliveresampler.so \
+    vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_SRC192_ver205.so:system/lib/lib_SoundAlive_SRC192_ver205.so \
+    vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_ver118t.so:system/lib/lib_SoundAlive_ver118t.so \
     vendor/samsung/j5-common/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/j5-common/proprietary/lib/hw/power.qcom.so:system/lib/hw/power.qcom.so \
@@ -460,4 +469,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/samsung/j5-common/proprietary/lib/soundfx/libaudioeffectoffload.so:system/lib/soundfx/libaudioeffectoffload.so \
     vendor/samsung/j5-common/proprietary/lib/soundfx/libmyspace.so:system/lib/soundfx/libmyspace.so \
+    vendor/samsung/j5-common/proprietary/lib/soundfx/libaudiosa_sec.so:system/lib/soundfx/libaudiosa_sec.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so
