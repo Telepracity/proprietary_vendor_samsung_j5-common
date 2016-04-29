@@ -226,6 +226,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
     vendor/samsung/j5-common/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
     vendor/samsung/j5-common/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
+    vendor/samsung/j5-common/proprietary/lib/libmtp.so:system/lib/libmtp.so \
+    vendor/samsung/j5-common/proprietary/lib/libmtp_samsung.so:system/lib/libmtp_samsung.so \
+    vendor/samsung/j5-common/proprietary/lib/libmtp_samsung_jni.so:system/lib/libmtp_samsung_jni.so \
     vendor/samsung/j5-common/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_play_plus_ver126a.so:system/lib/lib_SoundAlive_play_plus_ver126a.so \
     vendor/samsung/j5-common/proprietary/lib/lib_soundaliveresampler.so:system/lib/lib_soundaliveresampler.so \
