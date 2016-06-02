@@ -36,9 +36,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/samsungpowersoundplay:system/bin/samsungpowersoundplay \
     vendor/samsung/j5-common/proprietary/bin/msm_irqbalance:system/bin/ms_irqbalance \
     vendor/samsung/j5-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
-    vendor/samsung/j5-common/proprietary/lib/libfmradio_jni.so:system/lib/libfmradio_jni.so \
-    vendor/samsung/j5-common/proprietary/lib/libmtp_samsung.so:system/lib/libmtp_samsung.so \
-    vendor/samsung/j5-common/proprietary/lib/libmtp_samsung_jni.so:system/lib/libmtp_samsung_jni.so \
     vendor/samsung/j5-common/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libCommandSvc.so:system/vendor/lib/libCommandSvc.so \
@@ -452,7 +449,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/etc/firmware/Signedrompatch_v20.bin:system/etc/firmware/Signedrompatch_v20.bin \
     vendor/samsung/j5-common/proprietary/etc/firmware/ice40.bin:system/etc/firmware/ice40.bin \
     vendor/samsung/j5-common/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
-    vendor/samsung/j5-common/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/libSamsungPreProcess.so:system/lib/libSamsungPreProcess.so \
     vendor/samsung/j5-common/proprietary/lib/libSamsungPostProcess.so:system/lib/libSamsungPostProcess.so \
     vendor/samsung/j5-common/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
