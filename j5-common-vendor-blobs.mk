@@ -230,7 +230,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/lib_soundaliveresampler.so:system/lib/lib_soundaliveresampler.so \
     vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_SRC192_ver205.so:system/lib/lib_SoundAlive_SRC192_ver205.so \
     vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_ver118t.so:system/lib/lib_SoundAlive_ver118t.so \
-    vendor/samsung/j5-common/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
+    vendor/samsung/j5-common/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/j5-common/proprietary/lib/hw/power.qcom.so:system/lib/hw/power.qcom.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libactuator_dw9806_camcorder.so:system/vendor/lib/libactuator_dw9806_camcorder.so \
