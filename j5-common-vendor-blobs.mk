@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/mm-qomx-ienc-test:system/bin/mm-qomx-ienc-test \
     vendor/samsung/j5-common/proprietary/bin/mm-vidc-omx-test:system/bin/mm-vidc-omx-test \
     vendor/samsung/j5-common/proprietary/bin/msm-vidc-test:system/bin/msm-vidc-test \
-    vendor/samsung/j5-common/proprietary/bin/fmconfig:system/bin/fmconfig \
     vendor/samsung/j5-common/proprietary/bin/samsungpowersoundplay:system/bin/samsungpowersoundplay \
     vendor/samsung/j5-common/proprietary/bin/msm_irqbalance:system/bin/ms_irqbalance \
     vendor/samsung/j5-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
