@@ -16,6 +16,9 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/adsprpcd:system/bin/adsprpcd \
+    vendor/samsung/j5-common/proprietary/bin/fmconfig:system/bin/fmconfig \
+    vendor/samsung/j5-common/proprietary/bin/fmfactorytest:system/bin/fmfactorytest \
+    vendor/samsung/j5-common/proprietary/bin/fmfactorytestserver:system/bin/fmfactorytestserver \
     vendor/samsung/j5-common/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/samsung/j5-common/proprietary/bin/connfwexe:system/bin/connfwexe \
     vendor/samsung/j5-common/proprietary/bin/ddexe:system/bin/ddexe \
