@@ -91,8 +91,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/samsung/j5-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/samsung/j5-common/proprietary/lib/hw/nfc_nci.msm8916.so:system/lib/hw/nfc_nci.msm8916.so \
-    vendor/samsung/j5-common/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
-    vendor/samsung/j5-common/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
     vendor/samsung/j5-common/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/j5-common/proprietary/lib/hw/power.qcom.so:system/lib/hw/power.qcom.so \
@@ -465,8 +463,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/lib_DNSe_NRSS_ver230.so:system/lib/lib_DNSe_NRSS_ver230.so \
     vendor/samsung/j5-common/proprietary/lib/libsamsungpowersound.so:system/lib/libsamsungpowersound.so \
     vendor/samsung/j5-common/proprietary/lib/libmysound.so:system/lib/libmysound.so \
-    vendor/samsung/j5-common/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
-    vendor/samsung/j5-common/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/samsung/j5-common/proprietary/lib/soundfx/libaudioeffectoffload.so:system/lib/soundfx/libaudioeffectoffload.so \
     vendor/samsung/j5-common/proprietary/lib/soundfx/libmyspace.so:system/lib/soundfx/libmyspace.so \
     vendor/samsung/j5-common/proprietary/lib/soundfx/libaudiosa_sec.so:system/lib/soundfx/libaudiosa_sec.so \
