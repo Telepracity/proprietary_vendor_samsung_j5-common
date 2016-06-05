@@ -92,6 +92,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/samsung/j5-common/proprietary/lib/hw/nfc_nci.msm8916.so:system/lib/hw/nfc_nci.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
+    vendor/samsung/j5-common/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
     vendor/samsung/j5-common/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/j5-common/proprietary/lib/hw/power.qcom.so:system/lib/hw/power.qcom.so \
@@ -453,7 +454,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/etc/firmware/Signedrompatch_v21.bin:system/etc/firmware/Signedrompatch_v21.bin \
     vendor/samsung/j5-common/proprietary/etc/firmware/Signedrompatch_v20.bin:system/etc/firmware/Signedrompatch_v20.bin \
     vendor/samsung/j5-common/proprietary/etc/firmware/ice40.bin:system/etc/firmware/ice40.bin \
-    vendor/samsung/j5-common/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
     vendor/samsung/j5-common/proprietary/lib/libSamsungPreProcess.so:system/lib/libSamsungPreProcess.so \
     vendor/samsung/j5-common/proprietary/lib/libSamsungPostProcess.so:system/lib/libSamsungPostProcess.so \
     vendor/samsung/j5-common/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
