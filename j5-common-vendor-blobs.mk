@@ -16,9 +16,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/adsprpcd:system/bin/adsprpcd \
-    vendor/samsung/j5-common/proprietary/bin/fmconfig:system/bin/fmconfig \
-    vendor/samsung/j5-common/proprietary/bin/fmfactorytest:system/bin/fmfactorytest \
-    vendor/samsung/j5-common/proprietary/bin/fmfactorytestserver:system/bin/fmfactorytestserver \
     vendor/samsung/j5-common/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/samsung/j5-common/proprietary/bin/connfwexe:system/bin/connfwexe \
     vendor/samsung/j5-common/proprietary/bin/ddexe:system/bin/ddexe \
@@ -93,14 +90,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/samsung/j5-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/samsung/j5-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
-    vendor/samsung/j5-common/proprietary/lib/hw/nfc_nci.msm8916.so:system/lib/hw/nfc_nci.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
-    vendor/samsung/j5-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/j5-common/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
-    vendor/samsung/j5-common/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
-    vendor/samsung/j5-common/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
-    vendor/samsung/j5-common/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
-    vendor/samsung/j5-common/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/samsung/j5-common/proprietary/vendor/firmware/libpn548ad_fw.so:system/vendor/firmware/libpn548ad_fw.so \
     vendor/samsung/j5-common/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/samsung/j5-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
@@ -397,7 +388,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
     vendor/samsung/j5-common/proprietary/vendor/lib/libDivxDrm.so:system/vendor/lib/libDivxDrm.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libExtendedExtractor.so:system/vendor/lib/libExtendedExtractor.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmparser.so:system/vendor/lib/libmmparser.so \
