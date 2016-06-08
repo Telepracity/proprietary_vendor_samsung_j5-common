@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/mm-qomx-idec-test:system/bin/mm-qomx-idec-test \
     vendor/samsung/j5-common/proprietary/bin/mm-qomx-ienc-test:system/bin/mm-qomx-ienc-test \
     vendor/samsung/j5-common/proprietary/bin/mm-vidc-omx-test:system/bin/mm-vidc-omx-test \
-    vendor/samsung/j5-common/proprietary/bin/msm-vidc-test:system/bin/msm-vidc-test \
     vendor/samsung/j5-common/proprietary/bin/samsungpowersoundplay:system/bin/samsungpowersoundplay \
     vendor/samsung/j5-common/proprietary/bin/msm_irqbalance:system/bin/ms_irqbalance \
     vendor/samsung/j5-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
@@ -112,7 +111,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libanalytics.so:system/lib/libanalytics.so \
     vendor/samsung/j5-common/proprietary/lib/libasf_fileshare.so:system/lib/libasf_fileshare.so \
     vendor/samsung/j5-common/proprietary/lib/libasf_fileshareserver.so:system/lib/libasf_fileshareserver.so \
-    vendor/samsung/j5-common/proprietary/lib/libbson.so:system/lib/libbson.so \
     vendor/samsung/j5-common/proprietary/lib/libCryptionkey.so:system/lib/libCryptionkey.so \
     vendor/samsung/j5-common/proprietary/lib/libdiagmonagent.so:system/lib/libdiagmonagent.so \
     vendor/samsung/j5-common/proprietary/lib/libdirencryption.so:system/lib/libdirencryption.so \
@@ -142,7 +140,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
     vendor/samsung/j5-common/proprietary/lib/libgdmcprov.so:system/lib/libgdmcprov.so \
     vendor/samsung/j5-common/proprietary/lib/libmaet.so:system/lib/libmaet.so \
-    vendor/samsung/j5-common/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
     vendor/samsung/j5-common/proprietary/lib/libnvaccessor_fb.so:system/lib/libnvaccessor_fb.so \
     vendor/samsung/j5-common/proprietary/lib/libpalmMobileDetectorFull.so:system/lib/libpalmMobileDetectorFull.so \
     vendor/samsung/j5-common/proprietary/lib/lib_PreGainBooster_ver104.so:system/lib/lib_PreGainBooster_ver104.so \
@@ -207,7 +204,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libvtstack.so:system/lib/libvtstack.so \
     vendor/samsung/j5-common/proprietary/lib/libandroid_ssrm.so:system/lib/libandroid_ssrm.so \
     vendor/samsung/j5-common/proprietary/lib/libexfat_utils.so:system/lib/libexfat_utils.so \
-    vendor/samsung/j5-common/proprietary/lib/libminui.so:system/lib/libminui.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxaace.so:system/lib/libsomxaace.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxadpcmd.so:system/lib/libsomxadpcmd.so \
     vendor/samsung/j5-common/proprietary/lib/libsyncmldm.so:system/lib/libsyncmldm.so \
@@ -432,7 +428,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/samsung/j5-common/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/samsung/j5-common/proprietary/lib/libcommon_time_client.so:system/lib/libcommon_time_client.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/samsung/j5-common/proprietary/bin/ssr_diag:system/bin/ssr_diag \
     vendor/samsung/j5-common/proprietary/bin/ssr_setup:system/bin/ssr_setup \
