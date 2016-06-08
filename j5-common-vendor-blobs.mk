@@ -89,6 +89,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/samsung/j5-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/samsung/j5-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
+    vendor/samsung/j5-common/proprietary/bin/msm-vidc-test:system/bin/msm-vidc-test \
+    vendor/samsung/j5-common/proprietary/lib/libbson.so:system/lib/libbson.so \
+    vendor/samsung/j5-common/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
+    vendor/samsung/j5-common/proprietary/lib/libminui.so:system/lib/libminui.so \
     vendor/samsung/j5-common/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
     vendor/samsung/j5-common/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
