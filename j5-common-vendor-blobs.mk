@@ -88,6 +88,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
     vendor/samsung/j5-common/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
