@@ -87,7 +87,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/libFlacSwDec.so:system/vendor/lib/libFlacSwDec.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
