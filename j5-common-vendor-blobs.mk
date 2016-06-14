@@ -36,7 +36,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/ssr_setup:system/bin/ssr_setup \
     vendor/samsung/j5-common/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
     vendor/samsung/j5-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxCore.so:system/lib/libOmxCore.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxVdec.so:system/lib/libOmxVdec.so \
     vendor/samsung/j5-common/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
+    vendor/samsung/j5-common/proprietary/lib/libOmxVenc.so:system/lib/libOmxVenc.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
