@@ -46,18 +46,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libFileMux.so:system/vendor/lib/libFileMux.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libfrsdk.so:system/vendor/lib/libfrsdk.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libhwdaphal.so:system/vendor/lib/libhwdaphal.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsdpl.so:system/vendor/lib/lib-imsdpl.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsqimf.so:system/vendor/lib/lib-imsqimf.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsrcs.so:system/vendor/lib/lib-imsrcs.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsrcscm.so:system/vendor/lib/lib-imsrcscm.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsrcscmclient.so:system/vendor/lib/lib-imsrcscmclient.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsrcscmservice.so:system/vendor/lib/lib-imsrcscmservice.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-ims-rcscmjni.so:system/vendor/lib/lib-ims-rcscmjni.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imss.so:system/vendor/lib/lib-imss.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsSDP.so:system/vendor/lib/lib-imsSDP.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsvt.so:system/vendor/lib/lib-imsvt.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-imsxml.so:system/vendor/lib/lib-imsxml.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/liblistenjni.so:system/vendor/lib/liblistenjni.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/liblistensoundmodel2.so:system/vendor/lib/liblistensoundmodel2.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmdsprpc.so:system/vendor/lib/libmdsprpc.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmm-disp-apis.so:system/vendor/lib/libmm-disp-apis.so \
@@ -70,8 +58,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libnative_audio_latency_jni.so:system/vendor/lib/libnative_audio_latency_jni.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libqct_resampler.so:system/vendor/lib/libqct_resampler.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-rcsimssjni.so:system/vendor/lib/lib-rcsimssjni.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/lib-rcsjni.so:system/vendor/lib/lib-rcsjni.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libscve.so:system/vendor/lib/libscve.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libscve_mv.so:system/vendor/lib/libscve_mv.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libvcel.so:system/vendor/lib/libvcel.so \
@@ -121,8 +107,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libMcRegistry.so:system/lib/libMcRegistry.so \
     vendor/samsung/j5-common/proprietary/lib/libomacp.so:system/lib/libomacp.so \
     vendor/samsung/j5-common/proprietary/lib/libomafldrm.so:system/lib/libomafldrm.so \
-    vendor/samsung/j5-common/proprietary/lib/libremotedesktop_client.so:system/lib/libremotedesktop_client.so \
-    vendor/samsung/j5-common/proprietary/lib/libremotedesktopservice.so:system/lib/libremotedesktopservice.so \
     vendor/samsung/j5-common/proprietary/lib/libsdp_crypto.so:system/lib/libsdp_crypto.so \
     vendor/samsung/j5-common/proprietary/lib/libsdp_kekm.so:system/lib/libsdp_kekm.so \
     vendor/samsung/j5-common/proprietary/lib/libsdp_sdk.so:system/lib/libsdp_sdk.so \
@@ -180,15 +164,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsavsff.so:system/lib/libsavsff.so \
     vendor/samsung/j5-common/proprietary/lib/libsavsmeta.so:system/lib/libsavsmeta.so \
     vendor/samsung/j5-common/proprietary/lib/libsavsvc.so:system/lib/libsavsvc.so \
-    vendor/samsung/j5-common/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
-    vendor/samsung/j5-common/proprietary/lib/libseccamera_jni.so:system/lib/libseccamera_jni.so \
     vendor/samsung/j5-common/proprietary/lib/libsec_devenc.so:system/lib/libsec_devenc.so \
     vendor/samsung/j5-common/proprietary/lib/libsecface.so:system/lib/libsecface.so \
     vendor/samsung/j5-common/proprietary/lib/libsecfips.so:system/lib/libsecfips.so \
     vendor/samsung/j5-common/proprietary/lib/libsecimaging.so:system/lib/libsecimaging.so \
     vendor/samsung/j5-common/proprietary/lib/libsecjpeginterface.so:system/lib/libsecjpeginterface.so \
     vendor/samsung/j5-common/proprietary/lib/libsecjpegquram.so:system/lib/libsecjpegquram.so \
-    vendor/samsung/j5-common/proprietary/lib/libsecmediarecorder_jni.so:system/lib/libsecmediarecorder_jni.so \
     vendor/samsung/j5-common/proprietary/lib/libSecMMCodec.so:system/lib/libSecMMCodec.so \
     vendor/samsung/j5-common/proprietary/lib/libsecpkcs11_engine.so:system/lib/libsecpkcs11_engine.so \
     vendor/samsung/j5-common/proprietary/lib/libsfextaac.so:system/lib/libsfextaac.so \
