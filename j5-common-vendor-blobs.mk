@@ -168,6 +168,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsecface.so:system/lib/libsecface.so \
     vendor/samsung/j5-common/proprietary/lib/libsecfips.so:system/lib/libsecfips.so \
     vendor/samsung/j5-common/proprietary/lib/libsecimaging.so:system/lib/libsecimaging.so \
+    vendor/samsung/j5-common/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
     vendor/samsung/j5-common/proprietary/lib/libsecjpeginterface.so:system/lib/libsecjpeginterface.so \
     vendor/samsung/j5-common/proprietary/lib/libsecjpegquram.so:system/lib/libsecjpegquram.so \
     vendor/samsung/j5-common/proprietary/lib/libSecMMCodec.so:system/lib/libSecMMCodec.so \
