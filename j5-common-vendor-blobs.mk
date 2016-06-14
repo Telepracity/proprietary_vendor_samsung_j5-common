@@ -148,7 +148,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsomxmp3d.so:system/lib/libsomxmp3d.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxmp4vdsw.so:system/lib/libsomxmp4vdsw.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxnaace.so:system/lib/libsomxnaace.so \
-    vendor/samsung/j5-common/proprietary/lib/libims_engine.so:system/lib/libims_engine.so \
     vendor/samsung/j5-common/proprietary/lib/libphotoeditorEngine.so:system/lib/libphotoeditorEngine.so \
     vendor/samsung/j5-common/proprietary/lib/libQjpeg.so:system/lib/libQjpeg.so \
     vendor/samsung/j5-common/proprietary/lib/libqjpegforphotoeditor.so:system/lib/libqjpegforphotoeditor.so \
@@ -167,7 +166,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsecface.so:system/lib/libsecface.so \
     vendor/samsung/j5-common/proprietary/lib/libsecfips.so:system/lib/libsecfips.so \
     vendor/samsung/j5-common/proprietary/lib/libsecimaging.so:system/lib/libsecimaging.so \
-    vendor/samsung/j5-common/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
     vendor/samsung/j5-common/proprietary/lib/libsecjpeginterface.so:system/lib/libsecjpeginterface.so \
     vendor/samsung/j5-common/proprietary/lib/libsecjpegquram.so:system/lib/libsecjpegquram.so \
     vendor/samsung/j5-common/proprietary/lib/libSecMMCodec.so:system/lib/libSecMMCodec.so \
@@ -184,7 +182,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libvtmanager.so:system/lib/libvtmanager.so \
     vendor/samsung/j5-common/proprietary/lib/libvtstack.so:system/lib/libvtstack.so \
     vendor/samsung/j5-common/proprietary/lib/libandroid_ssrm.so:system/lib/libandroid_ssrm.so \
-    vendor/samsung/j5-common/proprietary/lib/libexfat_utils.so:system/lib/libexfat_utils.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxaace.so:system/lib/libsomxaace.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxadpcmd.so:system/lib/libsomxadpcmd.so \
     vendor/samsung/j5-common/proprietary/lib/libsyncmldm.so:system/lib/libsyncmldm.so \
