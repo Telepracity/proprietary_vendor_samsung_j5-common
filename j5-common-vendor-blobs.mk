@@ -150,6 +150,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsomxnaace.so:system/lib/libsomxnaace.so \
     vendor/samsung/j5-common/proprietary/lib/libphotoeditorEngine.so:system/lib/libphotoeditorEngine.so \
     vendor/samsung/j5-common/proprietary/lib/libQjpeg.so:system/lib/libQjpeg.so \
+    vendor/samsung/j5-common/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
     vendor/samsung/j5-common/proprietary/lib/libqjpegforphotoeditor.so:system/lib/libqjpegforphotoeditor.so \
     vendor/samsung/j5-common/proprietary/lib/libQmageDecoder.so:system/lib/libQmageDecoder.so \
     vendor/samsung/j5-common/proprietary/lib/libquramagifencoder_L.so:system/lib/libquramagifencoder_L.so \
