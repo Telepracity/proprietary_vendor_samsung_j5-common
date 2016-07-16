@@ -21,6 +21,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.b03:system/vendor/firmware/keymaster/keymaster.b03 \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/samsung/j5-common/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
+    vendor/samsung/j5-common/proprietary/bin/fmconfig:system/bin/fmconfig \
+    vendor/samsung/j5-common/proprietary/bin/fmfactorytest:system/bin/fmfactorytest \
+    vendor/samsung/j5-common/proprietary/bin/fmfactorytestserver:system/bin/fmfactorytestserver \
+    vendor/samsung/j5-common/proprietary/bin/ftmdaemon:system/bin/ftmdaemon \
     vendor/samsung/j5-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/j5-common/proprietary/bin/perfd:system/bin/perfd \
     vendor/samsung/j5-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
