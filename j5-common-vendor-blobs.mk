@@ -20,6 +20,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.b02:system/vendor/firmware/keymaster/keymaster.b02 \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.b03:system/vendor/firmware/keymaster/keymaster.b03 \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
+    vendor/samsung/j5-common/proprietary/vendor/firmware/widevine.b00:system/vendor/firmware/widevine.b00 \
+    vendor/samsung/j5-common/proprietary/vendor/firmware/widevine.b01:system/vendor/firmware/widevine.b01 \
+    vendor/samsung/j5-common/proprietary/vendor/firmware/widevine.b02:system/vendor/firmware/widevine.b02 \
+    vendor/samsung/j5-common/proprietary/vendor/firmware/widevine.b03:system/vendor/firmware/widevine.b03 \
+    vendor/samsung/j5-common/proprietary/vendor/firmware/widevine.mdt:system/vendor/firmware/widevine.mdt \
     vendor/samsung/j5-common/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/samsung/j5-common/proprietary/bin/fmconfig:system/bin/fmconfig \
     vendor/samsung/j5-common/proprietary/bin/fmfactorytest:system/bin/fmfactorytest \
