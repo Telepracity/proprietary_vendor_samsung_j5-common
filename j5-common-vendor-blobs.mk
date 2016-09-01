@@ -49,6 +49,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/samsung/j5-common/proprietary/bin/ssr_diag:system/bin/ssr_diag \
     vendor/samsung/j5-common/proprietary/bin/ssr_setup:system/bin/ssr_setup \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/samsung/j5-common/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
     vendor/samsung/j5-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
@@ -356,6 +359,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libsecureui_svcsock.so:system/vendor/lib/libsecureui_svcsock.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libsecureuisvc_jni.so:system/vendor/lib/libsecureuisvc_jni.so \
     vendor/samsung/j5-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/samsung/j5-common/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/samsung/j5-common/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
