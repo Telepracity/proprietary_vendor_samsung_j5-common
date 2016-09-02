@@ -18,7 +18,7 @@
 DEVICE_PACKAGE_OVERLAYS += vendor/samsung/j5-common/overlay
 
 PRODUCT_PACKAGES += \
-    com.grarak.kerneladiutor-1 \
+    com.grarak.kerneladiutor \
     com.qualcomm.location
 
 PRODUCT_PACKAGES += \

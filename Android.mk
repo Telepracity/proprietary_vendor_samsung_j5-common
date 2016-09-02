@@ -20,9 +20,9 @@ ifeq ($(BOARD_VENDOR),samsung)
 ifneq ($(filter j5nltexx j5ltexx j53gxx j5ltedx j5lteub j5ltezt j5yltedo, $(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := com.grarak.kerneladiutor-1
-LOCAL_MODULE_OWNER := williye
-LOCAL_SRC_FILES := proprietary/app/com.grarak.kerneladiutor-1/base.apk
+LOCAL_MODULE := com.grarak.kerneladiutor
+LOCAL_MODULE_OWNER := WilliYe
+LOCAL_SRC_FILES := proprietary/app/com.grarak.kerneladiutor/base.apk
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
 LOCAL_MODULE_CLASS := APPS
