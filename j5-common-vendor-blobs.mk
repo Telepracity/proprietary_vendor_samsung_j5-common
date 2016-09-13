@@ -42,6 +42,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/fmfactorytest:system/bin/fmfactorytest \
     vendor/samsung/j5-common/proprietary/bin/fmfactorytestserver:system/bin/fmfactorytestserver \
     vendor/samsung/j5-common/proprietary/bin/qseecomd:system/bin/qseecomd \
+    vendor/samsung/j5-common/proprietary/bin/qseecom_sample_client:system/bin/qseecom_sample_client \
+    vendor/samsung/j5-common/proprietary/bin/qseecom_security_test:system/bin/qseecom_security_test \
     vendor/samsung/j5-common/proprietary/bin/perfd:system/bin/perfd \
     vendor/samsung/j5-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/samsung/j5-common/proprietary/bin/adsprpcd:system/bin/adsprpcd \
