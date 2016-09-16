@@ -247,6 +247,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libterrier.so:system/lib/libterrier.so \
     vendor/samsung/j5-common/proprietary/lib/libwcnftms.so:system/lib/libwcnftms.so \
     vendor/samsung/j5-common/proprietary/lib/libXt9core.so:system/lib/libXt9core.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libnative_audio_latency_jni.so:system/vendor/lib/libnative_audio_latency_jni.so \
+    vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_3DPosition_ver107.so:system/lib/lib_SoundAlive_3DPosition_ver107.so \
     vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_play_plus_ver126a.so:system/lib/lib_SoundAlive_play_plus_ver126a.so \
     vendor/samsung/j5-common/proprietary/lib/lib_soundaliveresampler.so:system/lib/lib_soundaliveresampler.so \
     vendor/samsung/j5-common/proprietary/lib/lib_SoundAlive_SRC192_ver205.so:system/lib/lib_SoundAlive_SRC192_ver205.so \
