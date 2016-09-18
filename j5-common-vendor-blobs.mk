@@ -47,6 +47,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/samsung/j5-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/samsung/j5-common/proprietary/lib/libTsAf.so:system/lib/libTsAf.so \
     vendor/samsung/j5-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/samsung/j5-common/proprietary/lib/libarac.so:system/lib/libarac.so \
     vendor/samsung/j5-common/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
