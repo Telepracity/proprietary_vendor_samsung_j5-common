@@ -326,6 +326,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsomxmp3d.so:system/lib/libsomxmp3d.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxmp4vdsw.so:system/lib/libsomxmp4vdsw.so \
     vendor/samsung/j5-common/proprietary/lib/libsomxnaace.so:system/lib/libsomxnaace.so \
+    vendor/samsung/j5-common/proprietary/lib/libqjpegforphotoeditor.so:system/lib/libqjpegforphotoeditor.so \
     vendor/samsung/j5-common/proprietary/lib/libQmageDecoder.so:system/lib/libQmageDecoder.so \
     vendor/samsung/j5-common/proprietary/lib/libquramagifencoder_L.so:system/lib/libquramagifencoder_L.so \
     vendor/samsung/j5-common/proprietary/lib/libquramimagecodec.so:system/lib/libquramimagecodec.so \
