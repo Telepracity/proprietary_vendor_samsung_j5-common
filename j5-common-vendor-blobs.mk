@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/sapd:system/bin/sapd \
     vendor/samsung/j5-common/proprietary/bin/wdsdaemon:system/bin/wdsdaemon \
     vendor/samsung/j5-common/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
-    vendor/samsung/j5-common/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/samsung/j5-common/proprietary/bin/dun-server:system/bin/dun-server \
     vendor/samsung/j5-common/proprietary/bin/rmnetcli:system/bin/rmnetcli \
     vendor/samsung/j5-common/proprietary/bin/ddexe:system/bin/ddexe \
