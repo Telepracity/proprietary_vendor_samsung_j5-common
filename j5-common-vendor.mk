@@ -25,9 +25,6 @@ PRODUCT_PACKAGES += \
     TimeService
 
 PRODUCT_PACKAGES += \
-    libHevcSwDecoder
-
-PRODUCT_PACKAGES += \
     libmm-abl
 
 $(call inherit-product, vendor/samsung/j5-common/j5-common-vendor-blobs.mk)
