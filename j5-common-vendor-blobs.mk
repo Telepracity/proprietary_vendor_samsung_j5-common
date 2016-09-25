@@ -50,6 +50,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/ssr_diag:system/bin/ssr_diag \
     vendor/samsung/j5-common/proprietary/bin/ssr_setup:system/bin/ssr_setup \
     vendor/samsung/j5-common/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
+    vendor/samsung/j5-common/proprietary/lib/libCryptionkey.so:system/lib/libCryptionkey.so \
+    vendor/samsung/j5-common/proprietary/lib/libsec_ecryptfs.so:system/lib/libsec_ecryptfs.so \
+    vendor/samsung/j5-common/proprietary/lib/libdirencryption.so:system/lib/libdirencryption.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/samsung/j5-common/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
