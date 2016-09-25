@@ -53,7 +53,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libCryptionkey.so:system/lib/libCryptionkey.so \
     vendor/samsung/j5-common/proprietary/lib/libsec_ecryptfs.so:system/lib/libsec_ecryptfs.so \
     vendor/samsung/j5-common/proprietary/lib/libdirencryption.so:system/lib/libdirencryption.so \
-    vendor/samsung/a5-common/proprietary/vendor/firmware/keymaste.b00:system/vendor/firmware/keymaster/keymaster.b00 \
+    vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.b00:system/vendor/firmware/keymaster/keymaster.b00 \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.b02:system/vendor/firmware/keymaster/keymaster.b02 \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.b03:system/vendor/firmware/keymaster/keymaster.b03 \
