@@ -297,9 +297,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
     vendor/samsung/j5-common/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/j5-common/proprietary/etc/srm.bin:system/etc/srm.bin \
-    vendor/samsung/j5-common/proprietary/etc/aasa_real_crt.crt:system/etc/aasa_real_crt.crt \
-    vendor/samsung/j5-common/proprietary/etc/certReqTemplate128.der:system/etc/certReqTemplate128.der \
-    vendor/samsung/j5-common/proprietary/etc/certReqTemplate256.der:system/etc/certReqTemplate256.der \
     vendor/samsung/j5-common/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
     vendor/samsung/j5-common/proprietary/etc/plmn_delta.bin:system/etc/plmn_delta.bin \
     vendor/samsung/j5-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
