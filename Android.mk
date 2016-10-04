@@ -17,7 +17,7 @@
 LOCAL_PATH := $(call my-dir)
 
 ifeq ($(BOARD_VENDOR),samsung)
-ifneq ($(filter j5nltexx j5ltexx j53gxx j5ltedx j5lteub j5ltezt j5yltedo, $(TARGET_DEVICE)),)
+ifneq ($(filter j5nltexx j5ltexx j53gxx j5ltedx j5lteub j5ltezt j5yltedo j5ltechn, $(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libHevcSwDecoder
