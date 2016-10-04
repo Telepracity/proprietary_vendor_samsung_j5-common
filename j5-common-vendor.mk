@@ -18,6 +18,9 @@
 DEVICE_PACKAGE_OVERLAYS += vendor/samsung/j5-common/overlay
 
 PRODUCT_PACKAGES += \
+    libHevcSwDecoder
+
+PRODUCT_PACKAGES += \
     libtime_genoff \
     TimeService
 
