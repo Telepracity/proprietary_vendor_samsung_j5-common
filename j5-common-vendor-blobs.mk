@@ -17,6 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/samsung/j5-common/proprietary/bin/usbhub_init:system/bin/usbhub_init \
+    vendor/samsung/j5-common/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
     vendor/samsung/j5-common/proprietary/bin/sapd:system/bin/sapd \
     vendor/samsung/j5-common/proprietary/bin/wdsdaemon:system/bin/wdsdaemon \
     vendor/samsung/j5-common/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
