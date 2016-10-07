@@ -31,6 +31,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/samsung/j5-common/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/samsung/j5-common/proprietary/bin/fmconfig:system/bin/fmconfig \
+    vendor/samsung/j5-common/proprietary/bin/fmfactorytest:system/bin/fmfactorytest \
+    vendor/samsung/j5-common/proprietary/bin/fmfactorytestserver:system/bin/fmfactorytestserver \
     vendor/samsung/j5-common/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/samsung/j5-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/j5-common/proprietary/bin/perfd:system/bin/perfd \
