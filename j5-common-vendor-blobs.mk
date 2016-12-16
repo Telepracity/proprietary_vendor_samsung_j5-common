@@ -20,7 +20,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.b02:system/vendor/firmware/keymaster/keymaster.b02 \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.b03:system/vendor/firmware/keymaster/keymaster.b03 \
     vendor/samsung/j5-common/proprietary/vendor/firmware/keymaste.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
+    vendor/samsung/j5-common/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
+    vendor/samsung/j5-common/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/samsung/j5-common/proprietary/bin/qseecomd:system/bin/qseecomd \
+    vendor/samsung/j5-common/proprietary/bin/qseecom_sample_client:system/bin/qseecom_sample_client \
     vendor/samsung/j5-common/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/samsung/j5-common/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/samsung/j5-common/proprietary/bin/btnvtool:system/bin/btnvtool \
