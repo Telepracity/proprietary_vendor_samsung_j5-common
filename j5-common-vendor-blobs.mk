@@ -55,6 +55,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/samsung/j5-common/proprietary/lib/libTsAf.so:system/lib/libTsAf.so \
     vendor/samsung/j5-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libqct_resampler.so:system/vendor/lib/libqct_resampler.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmdsprpc.so:system/vendor/lib/libmdsprpc.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmm-disp-apis.so:system/vendor/lib/libmm-disp-apis.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmm-qdcm.so:system/vendor/lib/libmm-qdcm.so \
+    vendor/samsung/j5-common/proprietary/lib/libatomcore.so:system/lib/libatomcore.so \
+    vendor/samsung/j5-common/proprietary/lib/libatomjpeg.so:system/lib/libatomjpeg.so \
     vendor/samsung/j5-common/proprietary/lib/libarac.so:system/lib/libarac.so \
     vendor/samsung/j5-common/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
     vendor/samsung/j5-common/proprietary/lib/libarcsoft_panorama_burstcapture.so:system/lib/libarcsoft_panorama_burstcapture.so \
@@ -97,7 +105,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
     vendor/samsung/j5-common/proprietary/lib/libchromatix_s5k3l2xx_common.so:system/lib/libchromatix_s5k3l2xx_common.so \
     vendor/samsung/j5-common/proprietary/lib/libchromatix_s5k3l2xx_common_1080p_b.so:system/lib/libchromatix_s5k3l2xx_common_1080p_b.so \
     vendor/samsung/j5-common/proprietary/lib/libchromatix_s5k3l2xx_common_1080p_s.so:system/lib/libchromatix_s5k3l2xx_common_1080p_s.so \
@@ -277,6 +284,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsamsungSoundbooster_pgb.so:system/lib/libsamsungSoundbooster_pgb.so \
     vendor/samsung/j5-common/proprietary/lib/libsamsungSoundbooster_ext.so:system/lib/libsamsungSoundbooster_ext.so \
     vendor/samsung/j5-common/proprietary/lib/libSEF.so:system/lib/libSEF.so \
+    vendor/samsung/j5-common/proprietary/lib/libshdace.so:system/lib/libshdace.so \
+    vendor/samsung/j5-common/proprietary/lib/libsnaace.so:system/lib/libsnaace.so \
+    vendor/samsung/j5-common/proprietary/lib/libsnamrnb.so:system/lib/libsnamrnb.so \
+    vendor/samsung/j5-common/proprietary/lib/libsnamrwb.so:system/lib/libsnamrwb.so \
+    vendor/samsung/j5-common/proprietary/lib/libsAMRNB.so:system/lib/libsAMRNB.so \
+    vendor/samsung/j5-common/proprietary/lib/libsAMRWB.so:system/lib/libsAMRWB.so \
     vendor/samsung/j5-common/proprietary/lib/libqjpegforphotoeditor.so:system/lib/libqjpegforphotoeditor.so \
     vendor/samsung/j5-common/proprietary/lib/libQmageDecoder.so:system/lib/libQmageDecoder.so \
     vendor/samsung/j5-common/proprietary/lib/libquramagifencoder_L.so:system/lib/libquramagifencoder_L.so \
@@ -299,4 +312,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/soundfx/libmyspace.so:system/lib/soundfx/libmyspace.so \
     vendor/samsung/j5-common/proprietary/lib/libsoundalive.so:system/lib/libsoundalive.so \
     vendor/samsung/j5-common/proprietary/lib/soundfx/libaudiosa_sec.so:system/lib/soundfx/libaudiosa_sec.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so
+    vendor/samsung/j5-common/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libtinyalsa.so:system/vendor/lib/libtinyalsa.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmmiipstreammmihttp.so:system/vendor/lib/libmmiipstreammmihttp.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmmipstreamaal.so:system/vendor/lib/libmmipstreamaal.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmmipstreamnetwork.so:system/vendor/lib/libmmipstreamnetwork.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmmipstreamsourcehttp.so:system/vendor/lib/libmmipstreamsourcehttp.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmmipstreamutils.so:system/vendor/lib/libmmipstreamutils.so
