@@ -313,7 +313,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libsoundalive.so:system/lib/libsoundalive.so \
     vendor/samsung/j5-common/proprietary/lib/soundfx/libaudiosa_sec.so:system/lib/soundfx/libaudiosa_sec.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
-    vendor/samsung/j5-common/proprietary/vendor/lib/libtinyalsa.so:system/vendor/lib/libtinyalsa.so \
+    vendor/samsung/j5-common/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmiipstreammmihttp.so:system/vendor/lib/libmmiipstreammmihttp.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmipstreamaal.so:system/vendor/lib/libmmipstreamaal.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmipstreamnetwork.so:system/vendor/lib/libmmipstreamnetwork.so \
