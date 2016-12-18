@@ -257,6 +257,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/etc/firmware/Signedrompatch_v21.bin:system/etc/firmware/Signedrompatch_v21.bin \
     vendor/samsung/j5-common/proprietary/etc/firmware/Signedrompatch_v20.bin:system/etc/firmware/Signedrompatch_v20.bin \
     vendor/samsung/j5-common/proprietary/etc/firmware/ice40.bin:system/etc/firmware/ice40.bin \
+    vendor/samsung/j5-common/proprietary/vendor/lib/liblistensoundmodel2.so:system/vendor/lib/liblistensoundmodel2.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libacdb-fts.so:system/vendor/lib/libacdb-fts.so \
