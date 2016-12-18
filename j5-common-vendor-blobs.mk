@@ -19,7 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/samsung/j5-common/proprietary/bin/sapd:system/bin/sapd \
     vendor/samsung/j5-common/proprietary/bin/dun-server:system/bin/dun-server \
-    vendor/samsung/j5-common/proprietary/bin/rmnetcli:system/bin/rmnetcli \
     vendor/samsung/j5-common/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/samsung/j5-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/j5-common/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
@@ -31,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/samsung/j5-common/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/samsung/j5-common/proprietary/bin/netmgrd:system/bin/netmgrd \
-    vendor/samsung/j5-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/j5-common/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/samsung/j5-common/proprietary/bin/radish:system/bin/radish \
     vendor/samsung/j5-common/proprietary/bin/rfs_access:system/bin/rfs_access \
@@ -248,7 +246,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libcordon.so:system/lib/libcordon.so \
     vendor/samsung/j5-common/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
     vendor/samsung/j5-common/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
-    vendor/samsung/j5-common/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/j5-common/proprietary/etc/srm.bin:system/etc/srm.bin \
     vendor/samsung/j5-common/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
     vendor/samsung/j5-common/proprietary/etc/plmn_delta.bin:system/etc/plmn_delta.bin \
