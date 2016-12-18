@@ -130,9 +130,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/samsung/j5-common/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
     vendor/samsung/j5-common/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
-    vendor/samsung/j5-common/proprietary/lib/libfilterfw.so:system/lib/libfilterfw.so \
     vendor/samsung/j5-common/proprietary/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
-    vendor/samsung/j5-common/proprietary/lib/libfilterpack_imageproc.so:system/lib/libfilterpack_imageproc.so \
     vendor/samsung/j5-common/proprietary/lib/libface.so:system/lib/libface.so \
     vendor/samsung/j5-common/proprietary/lib/libsecface.so:system/lib/libsecface.so \
     vendor/samsung/j5-common/proprietary/lib/libdmcFaceEngine.so:system/lib/libdmcFaceEngine.so \
