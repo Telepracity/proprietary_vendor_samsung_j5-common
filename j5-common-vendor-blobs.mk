@@ -173,6 +173,40 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/etc/T13QL_s5k3l2xx_module_info.xml:system/etc/T13QL_s5k3l2xx_module_info.xml \
     vendor/samsung/j5-common/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/j5-common/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
+    vendor/samsung/j5-common/proprietary/lib/libcommonpawrapper.so:system/lib/libcommonpawrapper.so \
+    vendor/samsung/j5-common/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
+    vendor/samsung/j5-common/proprietary/lib/libMcRegistry.so:system/lib/libMcRegistry.so \
+    vendor/samsung/j5-common/proprietary/lib/libnvaccessor_fb.so:system/lib/libnvaccessor_fb.so \
+    vendor/samsung/j5-common/proprietary/lib/libtzyfingr.so:system/lib/libtzyfingr.so \
+    vendor/samsung/j5-common/proprietary/lib/libpalmMobileDetectorFull.so:system/lib/libpalmMobileDetectorFull.so \
+    vendor/samsung/j5-common/proprietary/lib/libphotoeditorEngine.so:system/lib/libphotoeditorEngine.so \
+    vendor/samsung/j5-common/proprietary/lib/libsec_devenc.so:system/lib/libsec_devenc.so \
+    vendor/samsung/j5-common/proprietary/lib/libSecMMCodec.so:system/lib/libSecMMCodec.so \
+    vendor/samsung/j5-common/proprietary/lib/libsfextaac.so:system/lib/libsfextaac.so \
+    vendor/samsung/j5-common/proprietary/lib/libsfextcmn.so:system/lib/libsfextcmn.so \
+    vendor/samsung/j5-common/proprietary/lib/libsfextcp.so:system/lib/libsfextcp.so \
+    vendor/samsung/j5-common/proprietary/lib/libsfextflac.so:system/lib/libsfextflac.so \
+    vendor/samsung/j5-common/proprietary/lib/libsfextmkv.so:system/lib/libsfextmkv.so \
+    vendor/samsung/j5-common/proprietary/lib/libsfextmp4f.so:system/lib/libsfextmp4f.so \
+    vendor/samsung/j5-common/proprietary/lib/libskmm.so:system/lib/libskmm.so \
+    vendor/samsung/j5-common/proprietary/lib/libskmm_helper.so:system/lib/libskmm_helper.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomx263dsw.so:system/lib/libsomx263dsw.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomx264dsw.so:system/lib/libsomx264dsw.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxaacd.so:system/lib/libsomxaacd.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxaace.so:system/lib/libsomxaace.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxadpcmd.so:system/lib/libsomxadpcmd.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxamrd.so:system/lib/libsomxamrd.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxcmn.so:system/lib/libsomxcmn.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxcore.so:system/lib/libsomxcore.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxflacd.so:system/lib/libsomxflacd.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxhevcdsw.so:system/lib/libsomxhevcdsw.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxmp3d.so:system/lib/libsomxmp3d.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxmp4vdsw.so:system/lib/libsomxmp4vdsw.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxnaace.so:system/lib/libsomxnaace.so \
+    vendor/samsung/j5-common/proprietary/lib/libsomxvp8d.so:system/lib/libsomxvp8d.so \
+    vendor/samsung/j5-common/proprietary/lib/libvtmanager.so:system/lib/libvtmanager.so \
+    vendor/samsung/j5-common/proprietary/lib/libvtstack.so:system/lib/libvtstack.so \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libmmQSM.so:system/vendor/lib/libmmQSM.so \
     vendor/samsung/j5-common/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
@@ -226,6 +260,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
+    vendor/samsung/j5-common/proprietary/lib/libsxqk.so:system/lib/libsxqk.so \
+    vendor/samsung/j5-common/proprietary/lib/libsxqk_skia.so:system/lib/libsxqk_skia.so \
     vendor/samsung/j5-common/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/samsung/j5-common/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/samsung/j5-common/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
@@ -279,6 +315,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/liblistensoundmodel2.so:system/vendor/lib/liblistensoundmodel2.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/liblistenjni.so:system/vendor/lib/liblistenjni.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libnative_audio_latency_jni.so:system/vendor/lib/libnative_audio_latency_jni.so \
+    vendor/samsung/j5-common/proprietary/lib/libaudioparameter.so:system/lib/libaudioparameter.so \
+    vendor/samsung/j5-common/proprietary/lib/libvariablespeed.so:system/lib/libvariablespeed.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libacdb-fts.so:system/vendor/lib/libacdb-fts.so \
