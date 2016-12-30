@@ -64,8 +64,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmhttpstack.so:system/vendor/lib/libmmhttpstack.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
     vendor/samsung/j5-common/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
-    vendor/samsung/j5-common/proprietary/lib/libstagefright_h264enc.so:system/lib/libstagefright_h264enc.so \
-    vendor/samsung/j5-common/proprietary/lib/libstagefright_h264dec.so:system/lib/libstagefright_h264dec.so \
+    vendor/samsung/j5-common/proprietary/lib/libstagefright_soft_h264enc.so:system/lib/libstagefright_soft_h264enc.so \
+    vendor/samsung/j5-common/proprietary/lib/libstagefright_soft_h264dec.so:system/lib/libstagefright_soft_h264dec.so \
     vendor/samsung/j5-common/proprietary/lib/libterrier.so:system/lib/libterrier.so \
     vendor/samsung/j5-common/proprietary/lib/libatomcore.so:system/lib/libatomcore.so \
     vendor/samsung/j5-common/proprietary/lib/libatomjpeg.so:system/lib/libatomjpeg.so \
