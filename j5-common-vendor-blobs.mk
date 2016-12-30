@@ -53,7 +53,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/samsung/j5-common/proprietary/lib/libTsAf.so:system/lib/libTsAf.so \
     vendor/samsung/j5-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
-    vendor/samsung/j5-common/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libqct_resampler.so:system/vendor/lib/libqct_resampler.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
@@ -64,8 +63,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmhttpstack.so:system/vendor/lib/libmmhttpstack.so \
     vendor/samsung/j5-common/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
     vendor/samsung/j5-common/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
-    vendor/samsung/j5-common/proprietary/lib/libstagefright_soft_h264enc.so:system/lib/libstagefright_soft_h264enc.so \
-    vendor/samsung/j5-common/proprietary/lib/libstagefright_soft_h264dec.so:system/lib/libstagefright_soft_h264dec.so \
     vendor/samsung/j5-common/proprietary/lib/libterrier.so:system/lib/libterrier.so \
     vendor/samsung/j5-common/proprietary/lib/libatomcore.so:system/lib/libatomcore.so \
     vendor/samsung/j5-common/proprietary/lib/libatomjpeg.so:system/lib/libatomjpeg.so \
