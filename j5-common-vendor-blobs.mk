@@ -26,6 +26,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5-common/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/samsung/j5-common/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/samsung/j5-common/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+    vendor/samsung/j5-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/samsung/j5-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/samsung/j5-common/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/samsung/j5-common/proprietary/bin/loc_launcher:system/bin/loc_launcher \
